@@ -19,11 +19,11 @@
   width: 80%;
   overflow: hidden;
   margin: 100px auto 20px;
-  background-color: #a5a5a5;
+  background-color: #e3e3e3;
 }
 
 .slide1 {
-  background: url(assets/1.jpg) no-repeat;
+  background: url(assets/4.webp) no-repeat;
   background-size: contain;
   background-position: center;
   order: 1;
@@ -41,13 +41,13 @@
   order: 3;
 }
 .slide4 {
-  /*  background: url(assets/3.png) no-repeat; */
+   background: url(assets/1.jpg) no-repeat;
   background-size: contain;
   background-position: center;
   order: 4;
 }
 .slide5 {
-  /*  background: url(assets/3.png) no-repeat; */
+   background: url(assets/5.webp) no-repeat;
   background-size: contain;
   background-position: center;
   order: 5;
